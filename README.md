@@ -5,9 +5,6 @@ This is a classic Tetris game developed for Android using Kotlin programming lan
 
 ## Gameplay
 
-![tetris](https://github.com/d-lehel/tetris-android-game/assets/75861915/5455ad28-7ad8-42cb-917e-897e7e9fb111)
-
-Check out the gameplay in action! The GIF above showcases gameplay of the Tetris game on Android. 
 
 ## Features
 
@@ -24,10 +21,6 @@ Check out the gameplay in action! The GIF above showcases gameplay of the Tetris
 - Kotlin: The game logic and user interface are implemented using Kotlin, a modern programming language for Android development.
 - Android Studio: The project is developed and managed in Android Studio, a powerful integrated development environment (IDE) for Android app development.
 
-## How to Play
-
-Download from here and install the game on your Android device.
-- https://github.com/d-lehel/tetris-android-game/blob/main/playable_tetris_V3.apk
 
 =======
 # Tetris-Game
